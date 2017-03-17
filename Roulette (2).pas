@@ -1,10 +1,3 @@
-{ Kiran Bhuvanagiri
-GRS Homework -- 3
-Program: Roulette
-}
-
-
-
 program routlette;
  
 Var
